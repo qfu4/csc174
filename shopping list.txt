@@ -2,3 +2,5 @@ Shopping list
 - milk
 - bread
 - apple
+- orange
+- biscuits
